@@ -7,7 +7,7 @@ We test this shell script base official Raspbian '2018-11-13-raspbian-stretch.im
 
 How to use?
 
-step 1: wget https://raw.githubusercontent.com/geekworm-com/x720-script/master/x720.sh
+step 1: wget https://raw.githubusercontent.com/geekworm-com/x830-v2/master/x830-v2.sh
 
 sudo chmod +x x830-v2.sh
 
